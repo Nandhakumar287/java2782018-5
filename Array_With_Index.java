@@ -13,7 +13,7 @@ import java.util.*;
         }
         for(int i=0;i<Array_Size;i++)
         {
-          System.out.println(i+". "+Array_value[i]);
+          System.out.println(Array_value[i]+" "+i);
         }
       }  
     }  
